@@ -77,6 +77,14 @@ img, video {
   max-width: 100%;
 }
 
+@media screen and (min-width: 20em) {
+  html {
+    font-size: 1em;
+    line-height: 1em;
+  }
+}
+
+
 @media screen and (min-width: 30em) {
   html {
     font-size: 1.2em;
